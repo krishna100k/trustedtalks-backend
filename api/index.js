@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
-import userRoutes from "./Users.js"
-import chatRoutes from "./chats.js"
+import userRoutes from "../Users.js"
+import chatRoutes from "../chats.js"
 import mongoose from "mongoose";
 import bodyParser from "body-parser";
 
