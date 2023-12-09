@@ -5,7 +5,8 @@
   "main": "api/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js",
+    "dev": "nodemon"
   },
   "keywords": [],
   "author": "",
